@@ -1,0 +1,7 @@
+server:
+  context-path: /
+  port: 80
+spring:
+  data:
+    solr:
+      host: http://120.79.197.130:8983/solr
